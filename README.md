@@ -7,8 +7,6 @@
 
 ---
 
-howdy :^)
-
 |||
 | ---- | ---- |
 | Email | mike@mhennelly.com |
