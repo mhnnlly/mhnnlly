@@ -1,8 +1,5 @@
 <div id='header' align='center'>
   <img src='https://www.mhennelly.com/public/img/deer_at_csm.jpg' width='600'/>
-  
-  *Photo Taken 8/22/22*
-
 </div>
 
 ---
