@@ -7,8 +7,6 @@
 |||
 | ---- | ---- |
 | Email | mike@mhennelly.com |
-| My Website | [🤠](https://www.mhennelly.com) |
-| LinkedIn | [👨‍💻](https://linkedin.com/in/mhennelly) |
 
 <!--
 **MHennelly/MHennelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
