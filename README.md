@@ -1,4 +1,4 @@
-![alt](https://raw.githubusercontent.com/mhnnlly/wallpapers/main/files/1.jpg)
+![alt](https://raw.githubusercontent.com/mhnnlly/wallpapers/main/files/1.jpg){:height="200px"}
 
 Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](blog.mhnnlly.com).
 
