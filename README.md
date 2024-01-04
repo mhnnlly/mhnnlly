@@ -1,4 +1,4 @@
-<img src="./avatar.png" alt="Avatar" style="width: 100px; height: 100px; border-radius: 50%;" />
+<img src="./avatar.png" alt="Avatar" style="width: 100px; height: auto; border-radius: 50%;" />
 
 Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](blog.mhnnlly.com).
 
