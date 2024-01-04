@@ -1,4 +1,4 @@
-<img src="./linux-svgrepo-com.svg" alt="Tux" style="max-width: 100px max-height: 100px;" />
+<img src="./linux-svgrepo-com.svg" alt="Tux" style="max-width: 100px; max-height: 100px;" />
 
 Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](blog.mhnnlly.com).
 
