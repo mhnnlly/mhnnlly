@@ -1,4 +1,4 @@
-<img src="[https://example.com/image.jpg](https://raw.githubusercontent.com/mhnnlly/wallpapers/main/files/1.jpg)" alt="Alt" style="max-height: 200px;">
+<img src="https://raw.githubusercontent.com/mhnnlly/wallpapers/main/files/1.jpg" alt="Alt" style="max-height: 200px;">
 
 Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](blog.mhnnlly.com).
 
