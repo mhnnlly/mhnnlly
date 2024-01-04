@@ -2,7 +2,7 @@
   <img src='https://old.mhennelly.com/public/img/deer_at_csm.jpg' width='600'/>
 </div>
 
-
+A deer and her fawn overlooking the San Mateo bridge, photo taken circa Oct. '22
 
 <!--
 **MHennelly/MHennelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
