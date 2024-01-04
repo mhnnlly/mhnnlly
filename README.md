@@ -1,8 +1,6 @@
-<div id='header' align='center'>
-  <img src='https://old.mhennelly.com/public/img/deer_at_csm.jpg' width='600'/>
-</div>
+![alt](https://raw.githubusercontent.com/mhnnlly/wallpapers/main/files/1.jpg)
 
-A deer and her fawn overlooking the San Mateo bridge, photo taken circa Oct. '22
+Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](blog.mhnnlly.com).
 
 <!--
 **MHennelly/MHennelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
