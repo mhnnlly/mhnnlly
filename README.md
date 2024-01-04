@@ -1,7 +1,3 @@
-<div style="border-radius: 50%;">
-    <img src="./avatar.png" alt="Avatar" style="width: 100px; height: auto;" />
-</div>
-
 Hi, I'm Mike. Contacts, social media and my blog are all available at [blog.mhnnlly.com](https://blog.mhnnlly.com).
 
 <!--
