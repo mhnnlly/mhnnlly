@@ -1,4 +1,4 @@
-Hi, I'm Mike. Contacts, social media and other stuf are available at [blog.mhnnlly.com](https://blog.mhnnlly.com).
+Hi, I'm Mike. Contacts, social media and other stuff are available at [blog.mhnnlly.com](https://blog.mhnnlly.com).
 
 <!--
 **MHennelly/MHennelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
